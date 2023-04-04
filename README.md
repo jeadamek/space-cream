@@ -15,9 +15,9 @@
 
 ## ✏️ About
 
-This is a project developed on Stage 3 in the Explorer course at the [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course's projects [click on this link](https://github.com/jeadamek/explorer-rocketseat). 
+This project was developed on Stage 3 in the Explorer course at the [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course’s assignments click [this link](https://github.com/jeadamek/explorer-rocketseat). 
 
-In this challenge, it was requested to create a web page appling the mobile first rule and after that create a desktop version. Also, responsiveness, animation and Flex and Grid alignment concepts were applied.
+In this challenge, it was requested to create a web page applying the mobile-first rule and then create a desktop version. Also, responsiveness, animation, and Flex and Grid alignment concepts were applied.
 
 I could practice and study:
 
@@ -31,7 +31,6 @@ I could practice and study:
 The web page can be seen in the image below:<br/>
 
 ![preview](https://user-images.githubusercontent.com/78454317/192171494-43f0c91b-57db-4f00-9cd8-5b27b5847322.png)
-
 
 ## 🛠️ Technologies
 
@@ -51,3 +50,20 @@ To access the project, click on the link below:
 🔗 [View on Figma - Mobile Version](https://www.figma.com/file/hVDNQIbTbPzCYmp6HI5c4Z/Stage-03---Mobile-First-(Copy))
 
 🔗 [View on Figma - Desktop Version](https://www.figma.com/file/IrjItNDAYy56oC0gFZSEXQ/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)?node-id=0%3A1)
+
+
+## 📝 License
+
+This project is under the MIT license. See the file [LICENSE](LICENSE) for more details.
+
+
+## 🎯 Author
+
+<p>
+	Made by Jessica Adamek. Connect with me! 	
+</p>
+<div>
+  <a href="https://www.linkedin.com/in/jessica-adamek/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="A linkedin badge">
+  </a>  
+</div>
